@@ -1,0 +1,4 @@
+*.o
+out
+library
+Library_database.txt
